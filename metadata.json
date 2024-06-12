@@ -1,0 +1,7 @@
+{
+  "name": "&dBotScript &f| &7By &b[MVP&c+&b] glso &8- &5Domain",
+  "author": "glso",
+  "description": "&eA &eModule That controls &dBots &7(/botscript help)",
+  "version": "1.0.24",
+  "entry": "index.js"
+}
