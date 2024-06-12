@@ -6,6 +6,8 @@ How it works:
 Sent message (via player or command): ABC
 Response: /copy | /paste | /ac Reset Map!
 
+Any Malicious or unintended use of this script Is not my fault and is the users.
+
 Enjoy! -glso
 If you have any questions Let me know via DM or in game! (IGN: glso)
 
