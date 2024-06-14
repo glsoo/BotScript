@@ -1,11 +1,11 @@
 How to use:
 
 Our example: 
- To look for: “test123
- Responds: “/hellothere”, “/howareyou”
+To look for: “test123
+Responds: “/hellothere”, “/howareyou”
 
 1st Set command #1 to /hellothere
- /bs command 1 hellothere
+/bs command 1 hellothere
 
 2nd Set command #2 to /howareyou 
 /bs command 2 howareyou
