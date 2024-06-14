@@ -2,9 +2,11 @@ A ChatTriggers Module that allows users to create automatic bot systems, extreme
 
 Good example: Using /copy and /paste to reset maps!
 
+To view A example open "help.md"
+
 How it works:
 Sent message (via player or command): ABC
-Response: /copy | /paste | /ac Reset Map!
+Response: /copy | /paste | /resetmapmsg!
 
 Any Malicious or unintended use of this script Is not my fault and is the users.
 
